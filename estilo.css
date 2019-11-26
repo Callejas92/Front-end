@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+
+a:link {
+    padding: 5%;
+    text-decoration: none;
+}
+
+a:visited {
+    text-decoration: none
+}
+
+a:hover {
+    text-decoration: underline;
+    color: #f00
+}
+
+a:active {
+    text-decoration: none
+}
+
+nav.conteudo {
+    text-align: center;
+    padding: 10%;
+}
+
+nav>ul>li {
+    padding: 3%;
+}
+
+div#rodape {
+    padding: 1%;
+}
+
+footer {
+    height: 100px;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}
